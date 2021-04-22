@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![mgrundy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrundy&count_private=true)](https://github.com/mgrundy/github-readme-stats)
 <!--
 **mgrundy/mgrundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
