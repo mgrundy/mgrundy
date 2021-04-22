@@ -1,5 +1,5 @@
 
-![mgrundy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrundy&include_all_commits=true)
+![mgrundy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrundy&count_private=true&include_all_commits=true)
 <!--
 **mgrundy/mgrundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
