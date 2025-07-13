@@ -1,8 +1,8 @@
 [KProbes for s390x](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=4ba069b802c29eee066385f9826e2d83716626b4) was a long time ago, but I'm still proud of it.
 
-![mgrundy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrundy&count_private=true&include_all_commits=true&range=year)
+![mgrundy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrundy&range=month)
 
-Stats are cool, but don't include private repos you no longer have access to (no longer with org) or count Enterprise github stats (different userid now that I think about it).
+Stats were cool, but don't include private repos you no longer have access to (no longer with org) or count Enterprise github stats (different userid now that I think about it). I work my ass off, have thousands of commits from the past 15 years and am not going to put up with a robot giving me a shitty grade.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
